@@ -15,6 +15,7 @@ nav ul li, footer ul li {
 a {
   border-bottom: 2px solid #333;
   padding-bottom: 3px;
+  text-decoration: none;
   color: #674172;
 }
 a:hover {
