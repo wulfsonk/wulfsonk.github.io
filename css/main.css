@@ -1,6 +1,7 @@
 body {
   margin:60px auto;
   width: 70%
+  background: #FE664E;
 }
 nav ul, footer ul {
   font-family: 'Poppins', sans-serif;
