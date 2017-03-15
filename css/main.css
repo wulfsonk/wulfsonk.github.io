@@ -46,6 +46,11 @@ ul.posts {
 ul.posts li {
   list-style: none;
 }
+input {
+  border: 0px;
+  padding: 10px;
+  font-size: 18px;
+}
 input[type="submit"] {
   color: white;
   background: green;
