@@ -54,4 +54,5 @@ input {
 input[type="submit"] {
   color: white;
   background: #68C3A3;
+  border: 3px
 }
