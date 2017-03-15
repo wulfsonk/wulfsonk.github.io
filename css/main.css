@@ -45,8 +45,8 @@ ul.posts {
 }
 ul.posts li {
   list-style: none;
-}  
-img {
-  height: 300px;
-  width: auto;
+}
+input[type="submit"] {
+  color: white;
+  background: green;
 }
