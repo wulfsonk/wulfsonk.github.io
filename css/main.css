@@ -1,7 +1,8 @@
 body {
   margin:60px auto;
   width: 70%;
-  background: #FE664E;
+  background: url("http://www.arbormaxtree.com/wp-content/uploads/2014/10/Raleigh-Tree-Removal-1024x884.jpg");
+  background-size: cover;
 }
 nav ul, footer ul {
   font-family: 'Poppins', sans-serif;
