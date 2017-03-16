@@ -14,13 +14,16 @@ nav ul li, footer ul li {
 }
 nav ul {
   text-align: right;
+  font-size: 10em;
 }
 a {
-  border-bottom: 7px solid #E02C3C;
-  padding-bottom: 1px;
   text-decoration: none;
   color: #674172;
   font-weight: bold;
+}
+nav a {
+  border-bottom: 7px solid #E02C3C;
+  padding-bottom: 1px;
 }
 a:hover {
   background-color: red;
@@ -57,6 +60,6 @@ input[type="submit"] {
   background: #68C3A3;
   border: 3px;
 }
-.photo {
+.nav {
   
 }
