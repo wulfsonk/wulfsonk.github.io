@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 nav ul {
   text-align: right;
-  font-size: 4em;
+  font-size: 2em;
 }
 a {
   text-decoration: none;
@@ -35,8 +35,8 @@ h1 {
 }
 p {
   font-family: 'Poppins', sans-serif;
-  font-size: 4em;
-  line-height: 3em;
+  font-size: 1.2em;
+  line-height: 1.2em;
   color:#6741723;
 }  
 footer {
