@@ -15,13 +15,14 @@ nav ul li, footer ul li {
 nav ul {
   text-align: right;
   font-size: 1.2em;
+  float: right;
 }
 #K {
   text-align: left;
   font-size: 1.2em;
   width: 50%;
-  margin: 50%
-  color:#03A78E
+  margin: 50%;
+  color:#03A78E;
 }
 a {
   text-decoration: none;
