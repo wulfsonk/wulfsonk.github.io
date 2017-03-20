@@ -24,6 +24,7 @@ nav ul {
   width: 50%;
   color:#03A78E;
   float: left;
+  border: none;
 }
 a {
   text-decoration: none;
