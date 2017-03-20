@@ -16,6 +16,7 @@ nav ul {
   text-align: right;
   font-size: 1.2em;
   width: 50%;
+  float: right;
 }
 #K {
   text-align: left;
