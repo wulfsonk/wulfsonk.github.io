@@ -73,3 +73,6 @@ h1 {
 .container {
   margin: 0px;
 }
+nav {
+  height: 20px;
+}  
