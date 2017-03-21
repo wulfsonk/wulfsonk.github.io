@@ -60,19 +60,13 @@ ul.posts {
 ul.posts li {
   list-style: none;
 }
-input {
-  border: 0px;
-  padding: 10px;
-  font-size: 18px;
-}
-input[type="submit"] {
-  color: white;
-  background: #68C3A3;
-  border: 3px;
-}
 .blurb {
   margin-bottom: 20px;
 }
 h1 {
   margin-top: 20px
+} 
+.intro_paragraph {
+  width: 60%;
+  font-size: 1.4em;
 }    
