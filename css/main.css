@@ -77,3 +77,8 @@ h1 {
 nav {
   height: 100px;
 }  
+.portfolio_box {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
