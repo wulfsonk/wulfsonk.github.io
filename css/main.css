@@ -103,6 +103,7 @@ nav {
   color: white;
   text-align: center;
 }
-img {
+img.cmf {
   width: 300px;
+  text-align: center;
 }
