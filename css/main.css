@@ -99,3 +99,6 @@ nav {
   background-color: black;
   float: right;
 }
+.description_text p {
+  color: white;
+}
