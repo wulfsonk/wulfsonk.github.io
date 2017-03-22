@@ -84,9 +84,11 @@ nav {
   background-color: #FE664E;
   float: left;
   margin-right: none;
+  margin-bottom: 20px;
 }
 .description_box {
   height: 300px;
   width: 300px;
   background-color: #E02C3C;
+  float: right;
 }
