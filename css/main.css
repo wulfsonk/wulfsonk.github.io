@@ -78,7 +78,14 @@ nav {
   height: 100px;
 }  
 .portfolio_box {
-  height: 100px;
-  width: 100px;
-  background-color: red;
+  height: 500px;
+  width: 650px;
+  background-color: #FE664E;
+  float: left;
+  margin-right: none;
+}
+.description_box {
+  height: 300px;
+  width: 300px;
+  background-color: #E02C3C;
 }
