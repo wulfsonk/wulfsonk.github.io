@@ -99,7 +99,7 @@ nav {
   background-color: black;
   float: right;
 }
-.description_text p {
+p.description_text {
   color: white;
   text-align: center;
 }
