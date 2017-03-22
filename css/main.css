@@ -93,3 +93,9 @@ nav {
   float: left;
   margin-top: 40px;
 }
+.underline {
+  height: 20px;
+  width: 40px;
+  background-color: black;
+  float: right;
+}
