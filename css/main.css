@@ -95,10 +95,10 @@ nav {
   margin-top: 40px;
 }
 .underline {
-  height: 20px;
+  height: 7px;
   width: 40px;
-  background-color: black;
-  float: right;
+  background-color: red;
+  margin-right: 40px;
 }
 p.description_text {
   color: white;
